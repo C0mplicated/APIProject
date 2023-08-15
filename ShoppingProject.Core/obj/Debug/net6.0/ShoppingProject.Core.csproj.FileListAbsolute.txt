@@ -1,0 +1,12 @@
+D:\playground\ShoppingProject.Core\bin\Debug\net6.0\ShoppingProject.Core.deps.json
+D:\playground\ShoppingProject.Core\bin\Debug\net6.0\ShoppingProject.Core.dll
+D:\playground\ShoppingProject.Core\bin\Debug\net6.0\ShoppingProject.Core.pdb
+D:\playground\ShoppingProject.Core\obj\Debug\net6.0\ShoppingProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\playground\ShoppingProject.Core\obj\Debug\net6.0\ShoppingProject.Core.AssemblyInfoInputs.cache
+D:\playground\ShoppingProject.Core\obj\Debug\net6.0\ShoppingProject.Core.AssemblyInfo.cs
+D:\playground\ShoppingProject.Core\obj\Debug\net6.0\ShoppingProject.Core.csproj.CoreCompileInputs.cache
+D:\playground\ShoppingProject.Core\obj\Debug\net6.0\ShoppingProject.Core.dll
+D:\playground\ShoppingProject.Core\obj\Debug\net6.0\refint\ShoppingProject.Core.dll
+D:\playground\ShoppingProject.Core\obj\Debug\net6.0\ShoppingProject.Core.pdb
+D:\playground\ShoppingProject.Core\obj\Debug\net6.0\ref\ShoppingProject.Core.dll
+D:\playground\ShoppingProject.Core\obj\Debug\net6.0\ShoppingProject.Core.csproj.AssemblyReference.cache

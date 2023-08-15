@@ -1,0 +1,15 @@
+D:\playground\ShoppingProject.Services\bin\Debug\net6.0\ShoppingProject.Services.deps.json
+D:\playground\ShoppingProject.Services\bin\Debug\net6.0\ShoppingProject.Services.dll
+D:\playground\ShoppingProject.Services\bin\Debug\net6.0\ShoppingProject.Services.pdb
+D:\playground\ShoppingProject.Services\bin\Debug\net6.0\ShoppingProject.Core.dll
+D:\playground\ShoppingProject.Services\bin\Debug\net6.0\ShoppingProject.Core.pdb
+D:\playground\ShoppingProject.Services\obj\Debug\net6.0\ShoppingProject.Services.csproj.AssemblyReference.cache
+D:\playground\ShoppingProject.Services\obj\Debug\net6.0\ShoppingProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\playground\ShoppingProject.Services\obj\Debug\net6.0\ShoppingProject.Services.AssemblyInfoInputs.cache
+D:\playground\ShoppingProject.Services\obj\Debug\net6.0\ShoppingProject.Services.AssemblyInfo.cs
+D:\playground\ShoppingProject.Services\obj\Debug\net6.0\ShoppingProject.Services.csproj.CoreCompileInputs.cache
+D:\playground\ShoppingProject.Services\obj\Debug\net6.0\ShoppingProject.Services.csproj.CopyComplete
+D:\playground\ShoppingProject.Services\obj\Debug\net6.0\ShoppingProject.Services.dll
+D:\playground\ShoppingProject.Services\obj\Debug\net6.0\refint\ShoppingProject.Services.dll
+D:\playground\ShoppingProject.Services\obj\Debug\net6.0\ShoppingProject.Services.pdb
+D:\playground\ShoppingProject.Services\obj\Debug\net6.0\ref\ShoppingProject.Services.dll

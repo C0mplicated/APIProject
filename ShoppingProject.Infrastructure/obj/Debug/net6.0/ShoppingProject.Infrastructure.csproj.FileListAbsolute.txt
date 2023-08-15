@@ -1,0 +1,17 @@
+D:\playground\ShoppingProject.Infrastructure\bin\Debug\net6.0\ShoppingProject.Infrastructure.deps.json
+D:\playground\ShoppingProject.Infrastructure\bin\Debug\net6.0\ShoppingProject.Infrastructure.dll
+D:\playground\ShoppingProject.Infrastructure\bin\Debug\net6.0\ShoppingProject.Infrastructure.pdb
+D:\playground\ShoppingProject.Infrastructure\obj\Debug\net6.0\ShoppingProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\playground\ShoppingProject.Infrastructure\obj\Debug\net6.0\ShoppingProject.Infrastructure.AssemblyInfoInputs.cache
+D:\playground\ShoppingProject.Infrastructure\obj\Debug\net6.0\ShoppingProject.Infrastructure.AssemblyInfo.cs
+D:\playground\ShoppingProject.Infrastructure\obj\Debug\net6.0\ShoppingProject.Infrastructure.csproj.CoreCompileInputs.cache
+D:\playground\ShoppingProject.Infrastructure\obj\Debug\net6.0\ShoppingProject.Infrastructure.dll
+D:\playground\ShoppingProject.Infrastructure\obj\Debug\net6.0\refint\ShoppingProject.Infrastructure.dll
+D:\playground\ShoppingProject.Infrastructure\obj\Debug\net6.0\ShoppingProject.Infrastructure.pdb
+D:\playground\ShoppingProject.Infrastructure\obj\Debug\net6.0\ref\ShoppingProject.Infrastructure.dll
+D:\playground\ShoppingProject.Infrastructure\bin\Debug\net6.0\ShoppingProject.Infrastructure.runtimeconfig.json
+D:\playground\ShoppingProject.Infrastructure\bin\Debug\net6.0\ShoppingProject.Core.dll
+D:\playground\ShoppingProject.Infrastructure\bin\Debug\net6.0\ShoppingProject.Core.pdb
+D:\playground\ShoppingProject.Infrastructure\obj\Debug\net6.0\ShoppingProject.Infrastructure.csproj.AssemblyReference.cache
+D:\playground\ShoppingProject.Infrastructure\obj\Debug\net6.0\ShoppingProject.Infrastructure.csproj.CopyComplete
+D:\playground\ShoppingProject.Infrastructure\obj\Debug\net6.0\ShoppingProject.Infrastructure.genruntimeconfig.cache
